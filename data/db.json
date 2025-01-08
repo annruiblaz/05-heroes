@@ -1,10 +1,13 @@
 {
-  "users": [{
-    "id": 1,
-    "usuario": "John Doe",
-    "email": "john.due@gmail.com"
-  }],
-  "heroes": [{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
       "id": "dc-batman",
       "superhero": "Batman",
       "publisher": "DC Comics",
@@ -18,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://preview.redd.it/rebirth-suit-appreciation-post-v0-9ggssj96wgzc1.jpeg?auto=webp&s=92f69fa485df562a24576f1f8478b52c00a92bc4"
     },
     {
       "id": "dc-flash",
@@ -147,14 +151,6 @@
       "alter_ego": "Clinton Francis Barton",
       "first_appearance": "Tales of Suspense #57",
       "characters": "Clinton Francis Barton"
-    },
-    {
-      "id": "marvel-cyclops",
-      "superhero": "Cyclops",
-      "publisher": "Marvel Comics",
-      "alter_ego": "Scott Summers",
-      "first_appearance": "X-Men #1",
-      "characters": "Scott Summers"
     },
     {
       "id": "marvel-silver",
